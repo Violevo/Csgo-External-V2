@@ -1,4 +1,4 @@
-# Csgo-External-V2
+# Csgo-External
 First Cheat im actually proud of, should work in real games and be undetected - OUTDATED
 
 ## Features

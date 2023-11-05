@@ -1,5 +1,5 @@
 # Csgo-External
-First Cheat im actually proud of, should work in real games and be undetected
+First Cheat im actually proud of, Original code from https://www.youtube.com/@cazz
 
 ## Features
 - Glow ESP
